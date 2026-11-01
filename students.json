@@ -1,0 +1,11 @@
+{
+    "S101": {
+        "name": "\u0001man",
+        "department": "CSE",
+        "marks": {
+            "Python": 78.0,
+            "Maths": 65.0,
+            "DBMS": 88.0
+        }
+    }
+}
